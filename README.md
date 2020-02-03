@@ -15,3 +15,4 @@ members:
     TillM
     Wellenvogel
     bcn
+    afischerdev
