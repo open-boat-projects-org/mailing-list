@@ -3,12 +3,10 @@ Our mailing list: To keep spam low, we do not promote it here. Get in touch with
 admin: @Dirk--
 
 members:
-- afischerdev
 - Homberger
 - Wellenvogel
 - Chrhartz
 - Martin68
-- bcn
 - DUSmi
 - Moeritsen
 - Norbert-walter
